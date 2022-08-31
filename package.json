@@ -1,0 +1,22 @@
+{
+  "name": "snk",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "exceljs": "^4.3.0",
+    "markdown-it": "^13.0.1",
+    "yargs": "^17.5.1"
+  },
+  "bin": {
+    "snk": "./main.js"
+  }
+}
