@@ -1,5 +1,5 @@
 {
-  "name": "snk",
+  "name": "psnk",
   "version": "0.1.0",
   "description": "",
   "main": "main.js",
@@ -17,6 +17,6 @@
     "yargs": "^17.5.1"
   },
   "bin": {
-    "snk": "./main.js"
+    "psnk": "./main.js"
   }
 }
